@@ -1,0 +1,3 @@
+Author: Matthew Locke
+
+Author witholds every right to restrain, redistribute code as the author pleases
